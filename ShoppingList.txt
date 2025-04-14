@@ -3,5 +3,3 @@ Bread
 Bananas
 Eggs
 
-Ice Cream
-Cupcakes
